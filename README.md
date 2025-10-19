@@ -1,6 +1,6 @@
 # SmartGpt
 
-A full-stack ChatGPT-like application built with React and Node.js, featuring a clean chat interface with conversation threading and persistent storage.
+A MERN-Stack based  ChatGPT-like application built with React and Node.js, featuring a clean chat interface with conversation threading and persistent storage.
 
 ## 🚀 Features
 
