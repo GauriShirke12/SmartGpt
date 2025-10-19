@@ -118,10 +118,6 @@ OpenGpt/
 5. **Responsive Design**: Works on various screen sizes
 
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## Author
 
 Gauri Shirke
